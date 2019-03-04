@@ -32,8 +32,8 @@
    fit-margin-right="30"
    fit-margin-bottom="20"
    inkscape:zoom="1"
-   inkscape:cx="614.58443"
-   inkscape:cy="423.25073"
+   inkscape:cx="214.58443"
+   inkscape:cy="415.25073"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
@@ -239,17 +239,19 @@
    id="text2104"
    y="127.08501"
    x="392.63171"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:25px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:25px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;"
    xml:space="preserve"><tspan
-     style="font-size:24px;text-align:center;text-anchor:middle;stroke-width:1;"
+     style="font-size:24px;text-align:center;text-anchor:middle;stroke-width:1;-inkscape-font-specification:sans-serif;font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
      y="127.08501"
      x="392.63171"
      id="tspan2102"
      sodipodi:role="line">Shamir parts</tspan></text>
 
+
+
 <text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:25px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:25px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;"
    x="658.81793"
    y="204.41113"
    id="text2108"><tspan
@@ -257,12 +259,14 @@
      id="tspan2106"
      x="658.81793"
      y="204.41113"
-     style="font-size:24px;text-align:center;text-anchor:middle;stroke-width:1">Pre-master</tspan><tspan
+     style="font-size:24px;text-align:center;text-anchor:middle;stroke-width:1;-inkscape-font-specification:sans-serif;font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Pre-master</tspan><tspan
      id="tspan2110"
      sodipodi:role="line"
      x="658.81793"
      y="229.41113"
-     style="font-size:24px;text-align:center;text-anchor:middle;stroke-width:1">digest</tspan></text>
+     style="font-size:24px;text-align:center;text-anchor:middle;stroke-width:1;-inkscape-font-specification:sans-serif;font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">digest</tspan></text>
+
+
 
 
 <text
@@ -275,9 +279,11 @@
      sodipodi:role="line"
      x="257.15704"
      y="728.57343"
-     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Oblique';text-align:center;text-anchor:middle;stroke-width:1">I<tspan
-   style="font-size:24px;baseline-shift:sub"
-   id="tspan5215">1</tspan></tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1">I<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan943">1</tspan></tspan></text>
+
+
 
 <text
    id="text2261"
@@ -285,13 +291,15 @@
    x="347.15704"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:25px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
    xml:space="preserve"><tspan
-     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Oblique';text-align:center;text-anchor:middle;stroke-width:1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
      y="728.57343"
      x="347.15704"
      sodipodi:role="line"
      id="tspan2259">I<tspan
-   style="font-size:24px;baseline-shift:sub"
-   id="tspan5217">2</tspan></tspan></text>
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan945">2</tspan></tspan></text>
+
+
 
 <text
    xml:space="preserve"
@@ -303,9 +311,11 @@
      sodipodi:role="line"
      x="437.15704"
      y="728.33905"
-     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Oblique';text-align:center;text-anchor:middle;stroke-width:1">I<tspan
-   style="font-size:24px;baseline-shift:sub"
-   id="tspan5219">3</tspan></tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1">I<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan947">3</tspan></tspan></text>
+
+
 
 <text
    id="text2273"
@@ -313,17 +323,19 @@
    x="527.15704"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:25px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
    xml:space="preserve"><tspan
-     style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Oblique';text-align:center;text-anchor:middle;stroke-width:1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
      y="728.57343"
      x="527.15704"
      sodipodi:role="line"
      id="tspan2271">I<tspan
-   style="font-size:24px;baseline-shift:sub"
-   id="tspan5221">4</tspan></tspan></text>
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan949">4</tspan></tspan></text>
+
+
 
 <text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:25px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1;"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:25px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1;"
    x="154.60573"
    y="65.443527"
    id="text2277"><tspan
@@ -331,19 +343,23 @@
      id="tspan2275"
      x="154.60573"
      y="65.443527"
-     style="font-size:21.33333206px;text-align:center;text-anchor:middle;stroke-width:1;fill:#808080;">y</tspan></text>
+     style="font-size:21.33333206px;text-align:center;text-anchor:middle;stroke-width:1;fill:#808080;-inkscape-font-specification:sans-serif;font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">y</tspan></text>
+
+
 
 <text
    id="text2281"
    y="721.67456"
    x="916.73499"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:25px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1;"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:25px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1;"
    xml:space="preserve"><tspan
-     style="font-size:21.33333206px;text-align:center;text-anchor:middle;stroke-width:1;fill:#808080;"
+     style="font-size:21.33333206px;text-align:center;text-anchor:middle;stroke-width:1;fill:#808080;-inkscape-font-specification:sans-serif;font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
      y="721.67456"
      x="916.73499"
      id="tspan2279"
      sodipodi:role="line">x</tspan></text>
+
+
 
 <path
    id="path94-7"
@@ -359,11 +375,13 @@
    x="755.26562"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:25px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
    xml:space="preserve"><tspan
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;stroke-width:1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1;"
      y="733.13904"
      x="755.26562"
      sodipodi:role="line"
      id="tspan2271-0">254</tspan></text>
+
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -373,21 +391,25 @@
      sodipodi:role="line"
      id="tspan5244"
      x="884.43646"
-     y="752.26794"></tspan></text>
+     y="752.26794" /></text>
+
+
 <text
    id="text2273-6-2"
    y="733.13904"
    x="845.26562"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:25px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
    xml:space="preserve"><tspan
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;stroke-width:1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1;"
      y="733.13904"
      x="845.26562"
      sodipodi:role="line"
      id="tspan2271-0-6">255</tspan></text>
+
+
 <text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:25px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:25px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;"
    x="779.08093"
    y="81.141075"
    id="text2108-1"><tspan
@@ -395,12 +417,14 @@
      sodipodi:role="line"
      x="779.08093"
      y="81.141075"
-     style="font-size:24px;text-align:center;text-anchor:middle;stroke-width:1">Pre-master</tspan><tspan
+     style="font-size:24px;text-align:center;text-anchor:middle;stroke-width:1;-inkscape-font-specification:sans-serif;font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">Pre-master</tspan><tspan
      sodipodi:role="line"
      x="779.08093"
      y="106.14108"
-     style="font-size:24px;text-align:center;text-anchor:middle;stroke-width:1"
+     style="font-size:24px;text-align:center;text-anchor:middle;stroke-width:1;-inkscape-font-specification:sans-serif;font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
      id="tspan5313">secret</tspan></text>
+
+
 <path
    id="path326-7"
    style="fill:none;stroke:#808080;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7435-8)"
